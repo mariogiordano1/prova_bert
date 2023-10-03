@@ -1,0 +1,7 @@
+mysql-connector-python
+pymysql
+fastapi
+gradio
+torch
+transformers
+numpy 
